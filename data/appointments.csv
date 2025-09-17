@@ -1,0 +1,2 @@
+id,patient_id,professional_id,service_id,date,start_time,end_time,status,notes,price,created_at
+1000,1,10,100,2025-09-17,09:00:00,09:30:00,programada,Primera visita,30000,2025-09-17T17:07:36.310248
